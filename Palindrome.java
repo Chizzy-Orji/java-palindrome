@@ -1,5 +1,3 @@
-package classwork;
-
 public class Palindrome {
   public static boolean isPalindrome(String word) {
       if (word.length() <= 1) {
